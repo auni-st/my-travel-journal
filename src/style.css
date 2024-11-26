@@ -4,7 +4,7 @@ body {
 }
 
 .travel-nav {
-  background-image: url("../../my-travel-journal/public/navbar.png");
+  background-image: url("navbar.png");
   padding: 10px 0px 10px 0px;
   display: flex;
   justify-content: center;
