@@ -8,7 +8,7 @@ function Card(props) {
       </div>
       <div>
         <div className="location">
-          <img src="../../public/pinpoint.png" alt="pinpoint" className="pinpoint"/>
+          <img src="pinpoint.png" alt="pinpoint" className="pinpoint"/>
           <p className="country">{props.item.country}</p>
           <p className="maps">View on Google Maps</p>
         </div>

@@ -1,7 +1,7 @@
 export default [
   {
     id: 1,
-    img: "../public/mount-batur.png",
+    img: "mount-batur.png",
     country: "INDONESIA",
     spot: "Mount Batur",
     date: "10 Jan 2025 - 17 Jan 2025",
@@ -9,7 +9,7 @@ export default [
   },
   {
     id: 2,
-    img: "../public/shinto-shrine.png",
+    img: "shinto-shrine.png",
     country: "JAPAN",
     spot: "Shinto Shrine",
     date: "10 Feb 2025 - 17 Feb 2025",
@@ -17,7 +17,7 @@ export default [
   },
   {
     id: 3,
-    img: "../public/machu-picchu.png",
+    img: "machu-picchu.png",
     country: "PERU",
     spot: "Machu Picchu",
     date: "10 Mar 2025 - 17 Mar 2025",
