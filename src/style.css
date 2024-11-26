@@ -1,0 +1,66 @@
+body {
+  background-color: #F5F5F5;
+  margin: 0px;
+}
+
+.travel-nav {
+  background-image: url("../../my-travel-journal/public/navbar.png");
+  padding: 10px 0px 10px 0px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: "Satisfy", cursive;
+  font-style: normal;
+}
+
+.navicon {
+  width: 50px;
+  height: 50px;
+  padding-right: 15px;
+}
+
+.card {
+  background-color: #FFFF;
+  margin: 70px;
+  padding: 30px;
+  border-radius: 20px;
+  display: flex;
+  gap: 40px;
+  font-family: 'Roboto';
+}
+
+.location {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.pinpoint {
+  width: 30px;
+  height: 30px;
+}
+
+.maps {
+  color: #7E7E7E;
+  text-decoration: underline;
+  font-size: small;
+  padding-left: 10px;
+}
+
+.country {
+  font-size: larger;
+}
+
+.spot {
+  font-size: 40px;
+  margin-top: -3px;
+  margin-bottom: 0px;
+}
+
+.date {
+  font-weight: bold;
+}
+
+.spot-image {
+  width:auto
+}
